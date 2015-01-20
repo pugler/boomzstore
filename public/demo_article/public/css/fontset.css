@@ -1,0 +1,236 @@
+.link_red{
+	float: left;
+	margin-top: 5px;
+}
+a.link_red:link, a.link_red:visited{
+	color: #f13a01;
+	text-decoration: none;
+}
+a.link_red:hover{
+	color: #666;
+	text-decoration: none;
+}
+.title_right_latest_news a{
+	text-decoration: none;
+	color: #666;
+}
+.title_right_latest_news a:hover{
+	text-decoration: none;
+	color: #f13a01;
+}
+.bar_all_page a{
+	color: #f13a01;
+	text-decoration: none;
+}
+.bar_all_page a:hover{
+	color: #f13a01;
+	text-decoration: none;
+}
+.name_latest_itoffer a{
+	color: #666;
+	text-decoration: none;
+}
+.name_latest_itoffer a:hover{
+	color: #f13a01;
+}
+.box_list_buy_seal_hot li a{
+	color: #F00;
+	text-decoration: none;
+}
+.box_list_buy_seal_hot li a:hover{
+	color: #666;
+}
+.box_list_buy_seal_general li a{
+	color: #666;
+	text-decoration: none;
+}
+.box_list_buy_seal_general li a:hover{
+	color: #f13a01;
+}
+
+h1{ margin: 0; color: #f13a01; font-size: 15px; font-weight: bold;}
+h2{ margin: 0; color: #666; font-size: 13px; font-weight: normal; }
+h3{ margin: 0; color: #f03b00; font-size: 13px; font-weight: normal; font-weight: bold; }
+
+.link_h1{
+	color: #F00;
+}
+.link_h2{
+	margin-bottom: 5px;
+	float: left;
+}
+.link_h3{
+	color: #f03b00;
+}
+a.link_h1{
+	color: #f13a01;
+	text-decoration: none;
+}
+a:hover.link_h1{
+	color: #666;
+}
+a.link_h2{
+	color: #666;
+	text-decoration: none;
+}
+a:hover.link_h2{
+	color: #f13a01;
+}
+a.link_h3{
+	color: #f13a01;
+	text-decoration: none;
+}
+a:hover.link_h3{
+	color: #666;
+}
+.box_list_sitemap a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap a:hover{
+	color: #666;
+}
+.box_list_sitemap_news a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_news a:hover{
+	color: #666;
+}
+.box_list_sitemap_article a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_article a:hover{
+	color: #666;
+}
+.box_list_sitemap_ourservice a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_ourservice a:hover{
+	color: #666;
+}
+.box_list_sitemap_techoffer a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_techoffer a:hover{
+	color: #666;
+}
+.box_list_sitemap_techmarket a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_techmarket a:hover{
+	color: #666;
+}
+
+.box_list_sitemap_Advertisewidthus a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_Advertisewidthus a:hover{
+	color: #666;
+}
+
+.box_list_sitemap_aboutus a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_aboutus a:hover{
+	color: #666;
+}
+
+.box_list_sitemap_marketservice a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_marketservice a:hover{
+	color: #666;
+}
+
+.box_list_sitemap_contactus a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_list_sitemap_contactus a:hover{
+	color: #666;
+}
+.left_list_menu{
+	margin-left: 29px;
+}
+a.left_list_menu{
+	color: #666;
+	text-decoration: none;
+}
+a:hover.left_list_menu{
+	color: #f13a01;
+}
+/*---------------------- news page ------------------------*/
+.box_navigator a{
+	color: #f13a01;
+	text-decoration: none;
+}
+.box_navigator a:hover{
+	color: #666;
+}
+a.general_news_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.general_news_text{
+	color: #666;
+}
+a.success_news_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.success_news_text{
+	color: #666;
+}
+.detail_list_detail a{
+	text-decoration: none;
+	color: #F00;
+}
+.detail_list_detail a:hover{
+	color: #666;
+}
+.text_color_666{
+	color: #666;
+}
+.box_tag a{
+	text-decoration: none;
+	color: #f13a01;
+}
+.box_tag a:hover{
+	color: #666;
+}
+a.game_article_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.game_article_text{
+	color: #666;
+}
+a.camera_article_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.camera_article_text{
+	color: #666;
+}
+a.mobile_article_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.mobile_article_text{
+	color: #666;
+}
+a.computer_article_text{
+	text-decoration: none;
+	color: #f13a01;
+}
+a:hover.computer_article_text{
+	color: #666;
+}

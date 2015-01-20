@@ -1,0 +1,214 @@
+body{ margin: 0; font-size: 13px; color: #666; font-family: Tahoma; background: #000; }
+img{ border: 0; }
+
+p{ margin: 0; padding: 0; }
+
+.main{
+	width: 967px;
+	margin: auto;
+	background: #FFF;
+}
+.header{
+	background: url(../img/bg_header.jpg) no-repeat;
+	width: 967px;
+	height: 84px;
+	color: #FFF;
+}
+.left_header{
+	float: left;
+	width: 350px;
+}
+.main_menu{
+	width: 967px;
+}
+.box_content{
+	width: 946px;
+	margin: auto;
+	margin-top: 10px;
+}
+.footer{
+	width: 946px;
+	margin: auto;
+	padding-bottom: 30px;
+}
+.box_content_footer{
+	width: 946px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.logo_siamoffer{
+	float: left;
+	width: 350px;
+	margin: 13px 0 0 19px;
+}
+.style_text_logo{
+	float: left; margin: 5px 0 0 20px;
+}
+.top_menu{
+	float: right;
+	margin: 3px 8px 0 0;
+}
+.top_menu a{
+	color: #FFF;
+	text-decoration: none;
+}
+.top_menu a:hover{
+	color: #f13a01;
+}
+.banner_footer{
+	float: left;
+	border: 1px solid #CCC;
+}
+.icon_cart{
+	float: left;
+	margin: -5px 0 0 10px;
+}
+.box_social_contactcenter{
+	float: left;
+	border: 1px solid #CCC;
+	margin-top: 5px;
+	width: 946px;
+	padding: 5px 0 5px 0;
+}
+.box_sitemap_footer{
+	width: 948px;
+	border-top: 12px solid #000;
+	float: left;
+	margin-top: 15px;
+}
+.box_social_footer_set{
+	margin: 1px 0 0 20px; float: left;
+}
+.box_social_footer_set img{
+	margin-right: 20px;
+}
+.text_get_connect{
+	font-size: 25px; float: left; margin-left: 25px;
+}
+.text_call_center{
+	font-size: 25px; float: left; margin-left: 10px;
+}
+
+/*-------------------ul lu footer -------------------*/
+.box_list_sitemap{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 25px;
+}
+ul.list_footer_sitemap{
+	list-style-type: none;
+	margin: 0 0 0 0;
+}
+.box_list_sitemap li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_news{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 100px;
+}
+.box_list_sitemap_news li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_article{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 50px;
+}
+.box_list_sitemap_article li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_techoffer{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 2px;
+}
+.box_list_sitemap_techoffer li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_techmarket{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 0;
+}
+.box_list_sitemap_techmarket li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_ourservice{
+	float: left;
+	color: #f13a01;
+	margin: 10px 32px 20px 25px;
+}
+.box_list_sitemap_ourservice li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_Advertisewidthus{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 0;
+}
+.box_list_sitemap_Advertisewidthus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_aboutus{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 5px;
+}
+.box_list_sitemap_aboutus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_contactus{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 74px;
+}
+.box_list_sitemap_contactus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_marketservice{
+	float: left;
+	color: #f13a01;
+	margin: 10px 36px 20px 50px;
+}
+.box_list_sitemap_marketservice li{
+	margin: 3px 0 0 -41px;
+}
+/*-------------------ul lu footer -------------------*/
+
+.text_about_sitemap{
+	font-size: 14px; color: #000;
+}
+.box_credit_service{
+	width: 946px;
+	float: left;
+	margin: 10px 0 10px 0;
+}
+.icon_credit_service{
+	width: 507px;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 35px;
+	border-bottom: 2px solid #CCC;
+}
+.copy_right{
+	width: 507px;
+	margin: auto;
+	margin-top: 10px;
+	text-align: center;
+}
+.icon_credit_service img{
+	margin-right: 20px;
+}
+.logo_footer{
+	position: relative; top: 20px;
+}

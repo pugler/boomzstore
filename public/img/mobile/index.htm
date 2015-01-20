@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<script src="./img/jquery.min.js"></script>
+	<script src="./img/jquery.touchslider.js"></script>
+
+	<style>
+		/* demo slider*/
+	/*	.touchslider-demo .touchslider-viewport {
+			border: 5px solid #fff1e0;
+			background: #fff1e0;
+			-webkit-border-radius: 6px;
+			        border-radius: 6px;
+		}*/
+		.touchslider-demo .touchslider-nav {
+			text-align: center;
+			margin-top: 16px;
+		}
+		.touchslider-demo .touchslider-nav a {
+			cursor: pointer;
+			color: #000000;
+		}
+		.touchslider-nav {
+			font: bold 16px/16px Tahoma, Times, serif;
+		}
+		.touchslider-demo .touchslider-prev {
+			position: relative;
+			margin-right: 10px;
+			width:70px;
+			height: 30px;
+			background: #fff;
+			width: 100px;
+			display: inline-block;
+			padding: 0 0 0 10px;
+			-webkit-border-radius: 5px 0 0 5px;
+			        border-radius: 5px 0 0 5px;
+		}
+		.touchslider-demo .touchslider-next {
+			position: relative;
+			margin-left: 10px;
+			width:70px;
+			height: 20px;
+			background: #fff;
+			display: inline-block;
+			-webkit-border-radius: 0 12px 12px 0;
+			        border-radius: 0 12px 12px 0;
+		}
+		.touchslider-demo .touchslider-next-in {
+			position: absolute; /* fix safari render font */
+			right: 10px;
+		}
+		.touchslider-demo .touchslider-prev-in {
+			position: absolute;
+			left: 10px;
+		}
+		.touchslider-demo .touchslider-nav-item {
+			width: 16px;
+			height: 16px;
+			background: #fff;
+			margin: 0 16px;
+			display: inline-block;
+			-webkit-border-radius: 12px;
+			        border-radius: 12px;
+			}
+		.touchslider-demo .touchslider-nav-item-current {
+			background: #cff0ff;
+		}
+
+		/* social slider */
+		.section-download {
+			position: relative;
+			padding-right: 230px;
+		}
+		.social {
+			width: 200px;
+			position: absolute;
+			right: 20px;
+			top: 0;
+		}
+		.touchslider-social .touchslider-nav {
+			text-align: center;
+			margin-bottom: 6px;
+		}
+		.touchslider-social .touchslider-nav-item {
+			opacity: .5;
+			padding: 0 2px;
+		}
+		.touchslider-social .touchslider-nav-item-current {
+			opacity: 1;
+		}
+	body {
+	background-color: #666666;
+}
+</style>
+    
+<body>
+<div>
+<div>
+
+
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	<div class="touchslider touchslider-demo" align="center">
+	  <div class="touchslider-viewport" style="width: 292px; overflow: hidden; position: relative; height: 101px;">
+        <div style="width: 500px; left: -1010px; height: 345px; ">
+          <div class="touchslider-item"><img src="./img/pic.jpg" width="145" height="101">&nbsp;<img src="./img/pic2.jpg" width="145" height="101"></div>
+          <div class="touchslider-item"><img src="./img/pic.jpg" width="145" height="101">&nbsp;<img src="./img/pic2.jpg" width="145" height="101"></div>
+          <div class="touchslider-item"><img src="./img/pic.jpg" width="145" height="101">&nbsp;<img src="./img/pic2.jpg" width="145" height="101"></div>
+          <div class="touchslider-item"><img src="./img/pic.jpg" width="145" height="101">&nbsp;<img src="./img/pic2.jpg" width="145" height="101"></div>
+        </div>
+      </div>
+	  <div class="touchslider-nav"><a class="touchslider-prev"><span class="touchslider-prev-in">ก่อนหน้า</span></a><a class="touchslider-nav-item"></a><a class="touchslider-nav-item"></a><a class="touchslider-nav-item touchslider-nav-item-current"></a><a class="touchslider-nav-item"></a><a class="touchslider-next"><span class="touchslider-next-in">ถัดไป</span></a></div>
+	</div>
+<script>
+	$(".touchslider-demo").touchSlider({mouseTouch: true});
+</script>

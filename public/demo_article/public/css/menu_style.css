@@ -1,0 +1,11 @@
+/* ---------------------- Dolphin nav ---------------------- */
+#menu-nav{position:relative;height:36px;font-size:16px; font-weight:bold;text-transform:uppercase;background:#000000 url("../img/menu/menu_bg.gif") repeat-x bottom left;font-family:Tahoma;}
+#menu-nav ul{margin:0;padding:0;list-style-type:none;width:auto;float:left;}
+#menu-nav ul li{display:block;float:left;margin:0 2px;}
+#menu-nav ul li a{display:block;float:left;color:#000000;text-decoration:none;padding:0 0 0 15px;height:45px;line-height:36px;}
+#menu-nav ul li a span{display:block;float:left;padding:0 15px 0 0;height:31px;width:auto;}
+#menu-nav ul li a:hover{color:#666;}
+#menu-nav ul li a:hover span{display:block;cursor:pointer;}
+#menu-nav ul li a.current,#menu-nav ul li a.current:hover{color:#f13a01;background:transparent url("../img/menu/menu_left-ON.gif") no-repeat top left;}
+#menu-nav ul li a.current span{background:transparent url("../img/menu/menu_right-ON.gif") no-repeat top right;height:36px;}
+/* ---------------------- END Dolphin nav ---------------------- */

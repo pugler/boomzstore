@@ -1,0 +1,111 @@
+h1 span {
+	display: none !important;
+}
+label.error , span.error {
+	color: #FD0100 !important;
+}
+#register1-page-content, .register-page {
+	background: #f1f5f8;
+	border-radius: 3px;
+}
+#register-bar, #profile-bar {
+	background: url(../img/member_new/register_bar_bg.png) repeat-x;
+	height: 54px;
+	position: relative;
+	display: block;
+	border: 1px solid #cccccc;
+	
+}
+#register-bar .bar-name {
+
+}
+#register-bar .bar-name h1{
+	background: url(../img/member_new/register_bar_name.png) no-repeat;
+	padding: 0;
+	margin: 0 0 0 15px;
+	height: 54px;
+}
+#profile-bar .bar-name h1{
+	background: url(../img/member_new/profile_bar_name.png) no-repeat;
+	padding: 0;
+	margin: 0 0 0 15px;
+	height: 54px;
+}
+#profile-body .profile-info label{
+	font-weight: bold;
+}
+#profile-body .profile-content {
+	width: 600px;
+	padding-top: 20px;
+	margin-left: 200px;
+	line-height: 2;
+}
+#register-bar .register-step {
+	background: url(../img/member_new/register_bar_step.png) no-repeat; 
+	width: 139px;
+	height: 30px;
+	position: absolute;
+	display: block;
+	right: 15px;
+	top: 10px;
+}
+#register-bar .register-step.step-1 {
+	background-position: 0 0;
+}
+#register-bar .register-step.step-2 {
+	background-position: 0 -30px;
+}
+#register-bar .register-step.step-3 {
+	background-position: 0 -60px;
+}
+#register-body {
+	color: #838a90;
+}
+#register-form {
+	margin-left: 285px;
+	margin-top: 35px;
+}
+#register-form input[type='text'],#register-form input[type='password']{
+	width: 390px;
+	height: 30px;
+	border-radius: 3px;
+	border: 1px solid #bfc2c7;
+	padding: 0;	
+}
+#register-form .form-input-box {
+	margin: 10px 0;
+}	
+#register-body .form-label {
+	display: block;
+	font-weight: bold;
+}
+#register-body .form-label em {
+	color: #fd0100;
+}
+#register-body .register-finish {
+	font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    padding: 10px 0;
+    text-align: center;
+}
+#register-body .register-finish .grey {
+	color: #5a6169;
+}
+#register-body .register-finish .red {
+	color: #fe0003;
+}
+#register-bottom {
+	margin-top: 20px;
+	height: 54px;
+	background: url(../img/member_new/register_bottom_bg.png) repeat-x;
+	color: #7d848a;
+}
+#register-bottom .bottom-content {
+	padding-top: 15px;
+	margin-left: 15px;
+}
+#register-bottom strong{
+	font-size: 1.5em;
+	color: #000000;
+}

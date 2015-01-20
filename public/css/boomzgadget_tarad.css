@@ -1,0 +1,158 @@
+/* header */
+b, strong {
+	font-weight: bold;
+}
+#FreeStyle_ShopStat Td.Header, #FreeStyle_ProductCate Td.Header {
+	font-size: 16px;
+	color: #383838;
+	background: #ffffff url('http://www.deargadget.com/assets/images/lines_bg.png') no-repeat center bottom;
+	padding: 0px 0px 10px 0px;
+}
+/* body */
+.freestyle_area_1 {
+	background: transparent!important;
+}
+.freestyle_area_2 {
+	background: transparent!important;
+}
+#FreeStyle_WorkArea.freestyle_area_2 {
+	background-color: #ffffff!important;
+	border-radius: 10px;
+}
+#FreeStyle_WorkArea Td.TabLeft, #FreeStyle_WorkArea Td.TabCenter, #FreeStyle_WorkArea Td.TabRight {
+	background-color: transparent!important;
+	border-left: none;
+}
+#FreeStyle_WorkArea Td.TabLeft {
+	border-right: none!important;
+	background: transparent url('http://www.deargadget.com/assets/images/border-right.png') repeat-y right top;
+}
+#FreeStyle_WorkArea Td.TabLeft table Td.TabLeft {
+	border-right: none!important;
+}
+/*
+#FreeStyle_WorkArea.freestyle_area_2 td.TabLeft, #FreeStyle_WorkArea.freestyle_area_2 td.TabCenter, #FreeStyle_WorkArea.freestyle_area_2 td.TabRight  {
+	background: transparent;
+	border: none;
+}
+*/
+/*
+#FreeStyle_WorkArea > .TabLeft > .TabLeft {
+	background: transparent;
+	border-right: 1px solid #cccccc!important;
+	border-left: none;
+}
+*/
+#FreeStyle_Header {
+	border: none;
+}
+#FreeStyle_TopMenu {
+	background: transparent;
+	border: none;
+	height: 50px;
+}
+#FreeStyle_TopMenu .Navigatortop a {
+	font-size: 18px;
+	padding: 0px 10px;
+	color: #F7EACE;
+}
+#FreeStyle_TopMenu .Navigatortop a:hover {
+	text-decoration: underline;
+}
+#FreeStyle_TopMenu .FreeStyleTColor {
+	background: transparent;
+}
+
+
+#FreeStyle_TopMenu .TopMenuLang {
+	display: inline!important;
+	font-size: 14px;
+	color: #F7EACE;
+}
+
+#FreeStyle_TopMenu .TopMenuLink img {
+	display: none!important;
+}
+
+#FreeStyle_Member {
+	display: none;
+}
+
+#FreeStyle_Search {
+	background-color: transparent;
+	border: none;
+	position: absolute;
+	top: 180px;
+	height: 30px;
+}
+#FreeStyle_Search td.Search_FontStyle {
+	color: #333333;
+	font-size: 16px;
+	padding-right: 145px;
+}
+#FreeStyle_Search #ser {
+	position: absolute;
+	height: 30px;
+	width: 150px;
+	border: none;
+	left: 486px;
+	top: 0px;
+	margin: 0;
+	padding: 0;
+}
+#FreeStyle_Search select {
+	position: absolute;
+	top: 0px;
+	left: 379px;
+	margin: 0;
+	padding: 0;
+	border: none;
+	padding: 6px;
+	height: 30px;
+}
+#FreeStyle_Search td.Search_FontStyle .submit {
+	position: absolute;
+	left: 621px;
+	top: 0px;
+	width: 48px!important;
+	height: 30px;
+	background: #ffffff url('http://www.deargadget.com/assets/images/search_button.png') no-repeat;
+	text-indent: -100px;
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+/* product */
+.ProductBottomLine A.NewProductLink:link {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* footer */
+#FreeStyle_WorkArea.freestyle_area_3 {
+	background: url("http://www.deargadget.com/assets/images/border_footer.png") no-repeat scroll center 88px transparent;
+    border: medium none;
+    height: 100px;
+}
+#FreeStyle_BottomPage {
+	color: #F7EACE!important;
+	border: none;
+	background-color: transparent;
+}
+#FreeStyle_BottomPage A {
+	font-size: 14px!important;
+	color: #F7EACE!important;
+}
+#FreeStyle_BottomPage A:hover {
+	text-decoration: underline;
+}
+
+.ContentCaption.ContentCaption_header, .ContentCaption.NewProduct_Header, .ContentCaption.ArticleHeader, .TabCenter .ShopNewsHeader, .ArticleHeader {
+	font-size: 16px;
+	font-weight: bold;
+	background: #ffffff url('http://www.deargadget.com/assets/images/lines_bg.png') repeat-x center bottom;
+	color: #383838;
+	padding: 13px 0px;
+	border-bottom: none;
+}

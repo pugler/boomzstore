@@ -1,0 +1,243 @@
+body{ 
+	margin: 0;
+ 	font-size: 13px; 
+	color: #666; 
+	font-family: Tahoma; 
+	background: #FFF;
+	/* background-image: url(../img/bg/bg_L-R-Boomz.png); */
+	background-repeat: repeat-x;
+	background-position: top center;
+}
+img{ border: 0; }
+
+p{ margin: 0; padding: 0; }
+
+.main{
+	width: 1000px;
+	margin: auto;
+	/*background: #efefef; */
+	background: #ffffff;
+}
+.header{
+	/*background: url(../img/bg_header.png) no-repeat; */
+	width: 1000px;
+	height: 125px;
+	margin: 25px 0 0 0px;
+	/*color: #FFF; */
+}
+.left_header{
+	float: left;
+	width: 215px;
+}
+
+.right_header{
+	float: right;
+	width: 215px;
+}
+
+
+.main_menu{
+	width: 1000px;
+}
+.box_content{
+	width: 1000px;
+	margin: auto;
+	margin-top: 10px;
+}
+.footer{
+	width: 1000px;
+	margin: auto;
+	padding-bottom: 30px;
+}
+.box_content_footer{
+	width: 1000px;
+	margin: auto;
+	margin-bottom: 10px;
+}
+.logo_boomzstore{
+	float: left;
+	width: 215px;
+	margin: 13px 0 0 5px;
+}
+
+.banner_728x90{
+	float: right;
+	width: 728px;
+	margin: 13px 5px 0 19px;
+}
+
+.style_text_logo{
+	float: left; margin: 5px 0 0 20px;
+}
+.top_menu{
+	float: right;
+	margin: 3px 8px 0 0;
+}
+.top_menu a{
+	color: #666;
+	text-decoration: none;
+}
+.top_menu a:hover{
+	color: #ff4e00;
+}
+.banner_footer{
+	float: left;
+	border: 1px solid #CCC;
+	margin: 10px 10px 0 0;
+}
+.icon_cart{
+	float: left;
+	margin: 3px 10px 0 10px;
+}
+.box_social_contactcenter{
+	float: left;
+	border: 1px solid #CCC;
+	margin-top: 5px;
+	width: 997px;
+	padding: 5px 0 5px 0;
+}
+.box_sitemap_footer{
+	width: 1000px;
+	border-top: 13px solid #000;
+	float: left;
+	margin-top: 15px;
+}
+.box_social_footer_set{
+	margin: 1px 0 0 20px; float: left;
+}
+.box_social_footer_set img{
+	margin-right: 20px;
+}
+.text_get_connect{
+	font-size: 25px; float: left; margin-left: 25px;
+}
+.text_call_center{
+	font-size: 25px; float: left; margin-left: 10px;
+}
+
+/*-------------------ul lu footer -------------------*/
+.box_list_sitemap{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 25px;
+}
+ul.list_footer_sitemap{
+	list-style-type: none;
+	margin: 0 0 0 0;
+}
+.box_list_sitemap li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_news{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 100px;
+}
+.box_list_sitemap_news li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_article{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 50px;
+}
+.box_list_sitemap_article li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_techoffer{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 2px;
+}
+.box_list_sitemap_techoffer li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_techmarket{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 0;
+}
+.box_list_sitemap_techmarket li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_ourservice{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 32px 20px 25px;
+}
+.box_list_sitemap_ourservice li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_Advertisewidthus{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 0;
+}
+.box_list_sitemap_Advertisewidthus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_aboutus{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 5px;
+}
+.box_list_sitemap_aboutus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_contactus{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 74px;
+}
+.box_list_sitemap_contactus li{
+	margin: 3px 0 0 -41px;
+}
+
+.box_list_sitemap_marketservice{
+	float: left;
+	color: #ff4e00;
+	margin: 10px 36px 20px 50px;
+}
+.box_list_sitemap_marketservice li{
+	margin: 3px 0 0 -41px;
+}
+/*-------------------ul lu footer -------------------*/
+
+.text_about_sitemap{
+	font-size: 14px; color: #000;
+}
+.box_credit_service{
+	width: 1000px;
+	float: left;
+	margin: 10px 0 10px 0;
+}
+.icon_credit_service{
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #CCC;
+}
+.copy_right{
+	width: 507px;
+	margin: auto;
+	margin-top: 10px;
+	text-align: center;
+}
+.copy_right a{color:#ff4e00; text-decoration: none;}
+.copy_right a:hover{color:#666; text-decoration: underline;}
+
+.icon_credit_service img{
+	margin-right: 20px;
+}
+.logo_footer{
+	position: relative; top: 20px;
+}
